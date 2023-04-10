@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/KotonesHomework/static/css/main.cc80d9e6.css",
-    "main.js": "/KotonesHomework/static/js/main.739321d6.js",
+    "main.js": "/KotonesHomework/static/js/main.ee0f565b.js",
     "static/js/787.f99c86d6.chunk.js": "/KotonesHomework/static/js/787.f99c86d6.chunk.js",
     "static/media/kreuz.svg": "/KotonesHomework/static/media/kreuz.7547ed76b90d5776991c702ed4c38e65.svg",
     "static/media/prufen.svg": "/KotonesHomework/static/media/prufen.a9423def4c7e9f1d791c832b06b33ee6.svg",
     "index.html": "/KotonesHomework/index.html",
     "main.cc80d9e6.css.map": "/KotonesHomework/static/css/main.cc80d9e6.css.map",
-    "main.739321d6.js.map": "/KotonesHomework/static/js/main.739321d6.js.map",
+    "main.ee0f565b.js.map": "/KotonesHomework/static/js/main.ee0f565b.js.map",
     "787.f99c86d6.chunk.js.map": "/KotonesHomework/static/js/787.f99c86d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc80d9e6.css",
-    "static/js/main.739321d6.js"
+    "static/js/main.ee0f565b.js"
   ]
 }
