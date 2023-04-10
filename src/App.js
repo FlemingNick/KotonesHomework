@@ -7,9 +7,9 @@ function App() {
   const [tries, setTries] = useState(0);
   const solve = () => {
     setTries(tries +1);
+    window.scrollTo(0,0);
     setTimeout(()=>{
-      if(!document.getElementsByClassName(".wrong")[0]){
-        window.scrollTo(0,0);
+      if(!document.getElementsByClassName("wrong")[0]){
         document.getElementById("congrats-container").style.display = "flex";
       }
     }, 500);
