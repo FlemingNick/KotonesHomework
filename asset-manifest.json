@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/homework/static/css/main.cc80d9e6.css",
+    "main.js": "/homework/static/js/main.ddc8ba38.js",
+    "static/js/787.f99c86d6.chunk.js": "/homework/static/js/787.f99c86d6.chunk.js",
+    "static/media/kreuz.svg": "/homework/static/media/kreuz.7547ed76b90d5776991c702ed4c38e65.svg",
+    "static/media/prufen.svg": "/homework/static/media/prufen.a9423def4c7e9f1d791c832b06b33ee6.svg",
+    "index.html": "/homework/index.html",
+    "main.cc80d9e6.css.map": "/homework/static/css/main.cc80d9e6.css.map",
+    "main.ddc8ba38.js.map": "/homework/static/js/main.ddc8ba38.js.map",
+    "787.f99c86d6.chunk.js.map": "/homework/static/js/787.f99c86d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc80d9e6.css",
+    "static/js/main.ddc8ba38.js"
+  ]
+}
