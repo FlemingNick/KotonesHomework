@@ -1,0 +1,23 @@
+.task-container{
+    display: flex;
+    list-style-type: decimal;
+    width: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input{
+    min-width: 64px;
+    max-width: 64px;
+    height: 1.5rem;
+    padding: 0.5rem;
+    border: 1px solid black;
+}
+.status{
+    width: 2rem;
+    height: 2rem;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
